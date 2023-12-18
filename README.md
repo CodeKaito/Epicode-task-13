@@ -1,2 +1,1 @@
-# Epicode-task-13
-Repository del task 13 di Epicode
+# Repository del 13 task di fine settimana di Epicode
